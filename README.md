@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodexMagician
+- 👋 Hi, I’m @Arcanus_Codex_Magus
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...to program
 - 💞️ I’m looking to collaborate on ...
